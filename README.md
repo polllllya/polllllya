@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**polllllya/polllllya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Pola! 👋
 
-Here are some ideas to get you started:
+On this GitHub I post the code of my academic assignments. Here you can find the technologies I have worked with. You can also find information about each repository in the README file.
+## 🚀 About Me
+I am a student of the Polish-Japanese Academy of
+Computer Technology in Warsaw. I've completed 5/7 semesters. I'm looking for an
+internship or job as a junior Front-End developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Skills
+- Java Script(React, Node), HTML, CSS 
+
+- SQL(TSQL, PLSQL)
+
+- Python
+
+- Manual Testing, API Endpoint Testing
+
+- Java
+
+- .NET (basic of C# and C++)
+
+- 3d Modeling(Complicated body structure, Normal map, Advanced texture)
+
