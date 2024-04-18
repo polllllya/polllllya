@@ -5,7 +5,7 @@ On this GitHub I post the code of my academic assignments. Here you can find the
 ## 🚀 About Me
 I am a student of the Polish-Japanese Academy of
 Computer Technology in Warsaw. I've completed 5/7 semesters. I'm looking for an
-internship or job as a junior Front-End developer.
+internship or job as a junior Full-Stack Developer.
 
 
 ## 🛠 Skills
